@@ -1,4 +1,4 @@
-# Trustless Agents (ERC-8004) Casual Hackathon
+# UniversalAI-ZetaChain Casual Hackathon
 
 **Decentralized and Trustless AI Agents** are reshaping the Ethereum ecosystem, with **ERC-8004** at the core.
 

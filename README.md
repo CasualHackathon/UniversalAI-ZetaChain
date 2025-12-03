@@ -4,9 +4,9 @@
 
 [参赛项目列表 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4)
 
-一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松，构建 ZetaChain 上的下一代通用应用
+一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松，构建 **ZetaChain × Qwen** 上的下一代通用应用
 
-本次虚拟 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日** 举行，包含头脑风暴、团队匹配、工作坊、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
+本次线上 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日** 举行，包含头脑风暴、团队匹配、工作坊、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
 
 本阶段为 **「通用 AI」共学黑客松** 的第二阶段，由 [ZetaChain](https://x.com/ZetaChain_CH) 与[阿里云](https://x.com/alibaba_cloud)发起，由 [LXDAO](https://x.com/LXDAO_Official) 联合主办。
 
@@ -26,7 +26,7 @@
 - **Casual Hackathon**：12 月15 日 – 12 月 20 日。动手实践和创意探索
 - **演示日**：12月21日。在 GitHub 上提交，现场展示，丰厚奖品
 
-加入微信群组，获取最新动态（群满200人，需添加运营人员微信）： clynn2024。
+加入微信群组，获取最新动态（群满200人，需添加运营人员微信）： clynn2024
 
 ## 👨‍💻 适合谁参加？
 
@@ -40,7 +40,7 @@
 
 如果您准备好：
 
-- 深入如何基于**ZetaChain**并围绕它们构建 MVP
+- 深入如何基于 **ZetaChain** 并围绕它们构建 MVP
 - 将 **ZetaChain x AI**、**ZetaChain x DeFi**想法转化为可运行的代码
 - 享受乐趣并创造一些很酷的东西
 

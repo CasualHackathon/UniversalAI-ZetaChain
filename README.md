@@ -6,7 +6,7 @@
 
 一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松。构建 ZetaChain 上的下一代通用应用。
 
-本次虚拟 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日**举行，包含头脑风暴、团队匹配、工作坊、AMA、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
+本次虚拟 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日**举行，包含头脑风暴、团队匹配、工作坊、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
 
 本阶段为 **「通用 AI」共学黑客松** 的第二阶段，由 [ZetaChain](https://x.com/ZetaChain_CH) 与[阿里云](https://x.com/alibaba_cloud)发起，由 [LXDAO](https://x.com/LXDAO_Official) 联合主办。
 

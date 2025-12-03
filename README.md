@@ -4,9 +4,9 @@
 
 [参赛项目列表 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4)
 
-一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松。构建 ZetaChain 上的下一代通用应用。
+一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松，构建 ZetaChain 上的下一代通用应用。
 
-本次虚拟 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日**举行，包含头脑风暴、团队匹配、工作坊、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
+本次虚拟 **Casual Hackathon** 将于 **12 月 15 日至 12 月 20 日** 举行，包含头脑风暴、团队匹配、工作坊、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
 
 本阶段为 **「通用 AI」共学黑客松** 的第二阶段，由 [ZetaChain](https://x.com/ZetaChain_CH) 与[阿里云](https://x.com/alibaba_cloud)发起，由 [LXDAO](https://x.com/LXDAO_Official) 联合主办。
 
@@ -32,10 +32,10 @@
 
 这不是面向初学者的训练营——这是一个高标准、低门槛的项目，适合：
 
-- 对 ZetaChain 已经有一定了解的开发者，并愿意在其上构建应用
-- **AI 开发者/产品经理/工程师**：在 ZetaChain 构建 AI 应用
-- **DeFi开发者/产品经理/工程师**：在 ZetaChain 上构建跨链原生 DeFi
-- **AI 初创公司**：需要真实场景验证与生态曝光
+- **ZetaChain 开发者**：了解通用 EVM / 通用智能合约，想在链上实现跨链逻辑。
+- **AI 开发者/产品经理/工程师**：想把 Qwen AI 接入 ZetaChain 链上，做自然语言钱包、智能代理等
+- **DeFi开发者/产品经理/工程师**：在 ZetaChain 上构建跨链借贷、收益策略、LSDFi 等新型 DeFi 应用
+- **Web3 产品经理/AI 初创公司**：有想法想快速做出一个可运行的 MVP
 - **积极的学习者**：深入探索 AI × Defi x 多链 的前沿领域
 
 如果您准备好：
@@ -50,8 +50,7 @@
 
 **生态资助最高可达 $200,000**
 
-来自 ZetaChain 生态基金会的后续支持（按项目潜力评估）。
-同时还包括：
+来自 ZetaChain 生态基金会的后续支持（按项目潜力评估），同时还包括：
 
 - 5000U 奖励池，授予 5 个最佳项目
 - 有机会获得 ZetaChain 实习 / 大使计划机会
@@ -68,11 +67,12 @@
 
 ## 🧩 为什么是 ZetaChain？为什么是现在？
 
-**ZetaChain** 的使命是打造一条具备原生访问能力的通用区块链 (Universal Blockchain)，让加密世界如同互联网般开放、多样与互联。此次与阿里云及 LXDAO 的合作，将联合来自亚太地区的开发者、技术导师与社区代表，共同探索 “多链互通 + 人工智能” 的前沿方向，在 ZetaChain 上打造最前沿的通用应用。
+**ZetaChain** 的使命是打造一条具备原生访问能力的通用区块链 (Universal Blockchain)，让加密世界如同互联网般开放、多样与互联。此次与阿里云及 LXDAO 的合作，将联合来自亚太地区的开发者、技术导师与社区代表，共同探索 **“多链互通 + 人工智能”** 的前沿方向，在 ZetaChain 上打造最前沿的通用应用。
 
-在此次 Hackathon 中，开发者将以 ZetaChain × Qwen AI 为核心，构建具备跨链理解力与行动力的通用应用（Universal Apps。本次活动设立两大主题方向，鼓励开发者从不同角度探索 Web3 与 AI的结合潜能。
+在此次 Hackathon 中，开发者将以 **ZetaChain × Qwen AI** 为核心，构建具备跨链理解力与行动力的通用应用（Universal Apps）。
+本次活动设立两大主题方向，鼓励开发者从不同角度探索 Web3 与 AI的结合潜能。
 
-- **通用 DeFi（Universal DeFi）**
+**通用 DeFi（Universal DeFi）**
 基于 ZetaChain 的原生跨链能力，开发者可以构建：
 - 多链统一借贷 / 稳定币
 -  跨链收益聚合与自动化策略
@@ -85,7 +85,7 @@ Qwen AI 可进一步支持：
 - 策略生成
 - 自动化操作
 
-- **通用AI 应用（Universal AI Applications）**
+**通用 AI 应用（Universal AI Applications）**
 利用通义千问（Qwen）强大的推理能力，使 AI 成为链上主动参与者：
 - 自然语言钱包
 - 智能代理（AI Agent）

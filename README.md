@@ -141,9 +141,9 @@ Qwen AI 可进一步支持：
 
 <table>
     <tr>
-         <td  align="center" valign="middle">
-            <a href="https://lxdao.io" target="_blank">
-                <img src="./materials/images/LXDAO.png" alt="LXDAO" width="130" />
+        <td  align="center" valign="middle">
+            <a href="https://www.zetachain.com" target="_blank">
+                <img src="./materials/images/zentachain.png" alt="ZetaChain" width="130" />
             </a>
         </td>
         <td  align="center" valign="middle">
@@ -151,12 +151,13 @@ Qwen AI 可进一步支持：
                 <img src="./materials/images/ali.png" alt="Alibaba Cloud" width="130" />
             </a>
         </td>
-        <td  align="center" valign="middle">
-            <a href="https://www.zetachain.com" target="_blank">
-                <img src="./materials/images/zentachain.png" alt="ZetaChain" width="130" />
+         <td  align="center" valign="middle">
+            <a href="https://lxdao.io" target="_blank">
+                <img src="./materials/images/LXDAO.png" alt="LXDAO" width="130" />
             </a>
         </td>
     </tr>
+
 </table>
 
 ## 🌟 社区支持

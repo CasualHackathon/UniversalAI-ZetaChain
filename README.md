@@ -14,19 +14,19 @@
 
 ## ⏰ 活动时间表
 
-| 活动             | 时间                            | 形式                                                                                             | 回顾                                |
-| ---------------- | ------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------- |
-| **开放日**       | 12 月 15 日 20:00 - 21:00 (UTC+8)        | 线上 [腾讯会议链接]() |                                     |
-| **工作坊**       | 12月10-14日（具体时间待定）                           | 线上                                                                                             | [往期工作坊视频](#-workshop-videos) |
-| **虚拟共建时间** | 每天 20:00 - 21:00 (UTC+8)     | 线上 [腾讯会议链接]() |                                     |
+| 活动             | 时间                              | 形式                  | 回顾                                |
+| ---------------- | --------------------------------- | --------------------- | ----------------------------------- |
+| **开放日**       | 12 月 15 日 20:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接]() |                                     |
+| **工作坊**       | 12 月 10-14 日（具体时间待定）    | 线上                  | [往期工作坊视频](#-workshop-videos) |
+| **虚拟共建时间** | 每天 20:00 - 21:00 (UTC+8)        | 线上 [腾讯会议链接]() |                                     |
 | **演示日**       | 12 月 21 日 19:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接]() |                                     |
 
 ## ⏰ 活动时间表
 
-- **Casual Hackathon**：12 月15 日 – 12 月 20 日。动手实践和创意探索
-- **演示日**：12月21日。在 GitHub 上提交，现场展示，丰厚奖品
+- **Casual Hackathon**：12 月 15 日 – 12 月 20 日。动手实践和创意探索
+- **演示日**：12 月 21 日。在 GitHub 上提交，现场展示，丰厚奖品
 
-加入微信群组，获取最新动态（群满200人，需添加运营人员微信）： clynn2024
+加入微信群组，获取最新动态（群满 200 人，需添加运营人员微信）： clynn2024
 
 ## 👨‍💻 适合谁参加？
 
@@ -34,7 +34,7 @@
 
 - **ZetaChain 开发者**：了解通用 EVM / 通用智能合约，想在链上实现跨链逻辑。
 - **AI 开发者/产品经理/工程师**：想把 Qwen AI 接入 ZetaChain 链上，做自然语言钱包、智能代理等
-- **DeFi开发者/产品经理/工程师**：在 ZetaChain 上构建跨链借贷、收益策略、LSDFi 等新型 DeFi 应用
+- **DeFi 开发者/产品经理/工程师**：在 ZetaChain 上构建跨链借贷、收益策略、LSDFi 等新型 DeFi 应用
 - **Web3 产品经理/AI 初创公司**：有想法想快速做出一个可运行的 MVP
 - **积极的学习者**：深入探索 AI × Defi x 多链 的前沿领域
 
@@ -56,7 +56,7 @@
 - 有机会获得 ZetaChain 实习 / 大使计划机会
 - 项目有机会进入 ZetaChain 长期生态孵化
 - 官方推广、合作伙伴曝光、多链开发资源支持
-  
+
 ### 🚀 项目示例
 
 - **ERC-8004 Trustless Agents 示例**：[GitHub 仓库](https://github.com/vistara-apps/erc-8004-example)
@@ -70,23 +70,26 @@
 **ZetaChain** 的使命是打造一条具备原生访问能力的通用区块链 (Universal Blockchain)，让加密世界如同互联网般开放、多样与互联。此次与阿里云及 LXDAO 的合作，将联合来自亚太地区的开发者、技术导师与社区代表，共同探索 **“多链互通 + 人工智能”** 的前沿方向，在 ZetaChain 上打造最前沿的通用应用。
 
 在此次 Hackathon 中，开发者将以 **ZetaChain × Qwen AI** 为核心，构建具备跨链理解力与行动力的通用应用（Universal Apps）。
-本次活动设立两大主题方向，鼓励开发者从不同角度探索 Web3 与 AI的结合潜能。
+本次活动设立两大主题方向，鼓励开发者从不同角度探索 Web3 与 AI 的结合潜能。
 
 **通用 DeFi（Universal DeFi）**
 基于 ZetaChain 的原生跨链能力，开发者可以构建：
+
 - 多链统一借贷 / 稳定币
--  跨链收益聚合与自动化策略
--  Restaking × AI 策略
--  AI 增强的风险控制与执行代理
--  无需桥接、多链统一入口的 DeFi 应用
-  
+- 跨链收益聚合与自动化策略
+- Restaking × AI 策略
+- AI 增强的风险控制与执行代理
+- 无需桥接、多链统一入口的 DeFi 应用
+
 Qwen AI 可进一步支持：
+
 - 智能调仓
 - 策略生成
 - 自动化操作
 
 **通用 AI 应用（Universal AI Applications）**
 利用通义千问（Qwen）强大的推理能力，使 AI 成为链上主动参与者：
+
 - 自然语言钱包
 - 智能代理（AI Agent）
 - AI 驱动的跨链自动化执行器
@@ -102,7 +105,7 @@ Qwen AI 可进一步支持：
 ✨ **技术分享**
 
 - 深入了解一条具备原生访问能力的通用区块链：ZetaChain
-- 借助 ZetaChain 的原生跨链能力，所有部署在链上的通用应用都能原生访问并组合主流公链的资产与协议。构建通用DeFI的未来！
+- 借助 ZetaChain 的原生跨链能力，所有部署在链上的通用应用都能原生访问并组合主流公链的资产与协议。构建通用 DeFI 的未来！
 - 借助阿里云通义千问的智能推理与生成能力，开发者可以在 ZetaChain 上构建更具理解力与行动力的智能应用。让每一个应用都具备跨链理解与自主行动的能力！
 
 💬 **在线学习空间**
@@ -122,6 +125,7 @@ Qwen AI 可进一步支持：
 ### 🎥 工作坊视频
 
 - **ZetaChain 通用资产与跨链 DeFi 开发导论**
+
   - [Bilibili](https://www.bilibili.com/video/BV1zWSgBnEcE/?share_source=copy_web&vd_source=fd6ac63c6fb1f02dcdf46371c30b2168)
 
 - **Qwen Agent 与 ZetaChain 全链交互实战导论**
@@ -138,59 +142,50 @@ Qwen AI 可进一步支持：
 <table>
     <tr>
          <td  align="center" valign="middle">
-            <a href="https://lxdao.io/" target="_blank">
+            <a href="https://lxdao.io" target="_blank">
                 <img src="./materials/images/LXDAO.png" alt="LXDAO" width="130" />
             </a>
         </td>
         <td  align="center" valign="middle">
-            <a href="https://ethpanda.org/" target="_blank">
-                <img src="./materials/images/ETHPanda.png" alt="ETHPanda" width="130" />
+            <a href="https://www.alibabacloud.com/" target="_blank">
+                <img src="./materials/images/ali.png" alt="Alibaba Cloud" width="130" />
+            </a>
+        </td>
+        <td  align="center" valign="middle">
+            <a href="https://www.zetachain.com" target="_blank">
+                <img src="./materials/images/zentachain.png" alt="ZetaChain" width="130" />
             </a>
         </td>
     </tr>
 </table>
 
-## 🤝 特别支持
+## 🌟 社区支持
 
 <table>
     <tr>
         <td align="center" valign="middle">
-            <a href="https://t.me/ERC8004" target="_blank">
-                <img src="./materials/images/dAI.png" alt="EF dAI Team" width="130" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-## 💰 赞助商
-
-<table>
-    <tr>
-        <td align="center" valign="middle">
-            <a href="https://x.com/Unibase_AI" target="_blank">
-                <img src="./materials/images/unibase.png" alt="Unibase" width="130" />
+            <a href="https://x.com/CloudicianTech" target="_blank">
+                <img src="./materials/images/cloudician.png" alt="cloudician" width="130" />
             </a>
         </td>
         <td align="center" valign="middle">
-            <a href="https://slowmist.com/" target="_blank">
-                <img src="./materials/images/SlowMist.png" alt="SlowMist" width="130" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-## 🌟 社区支持者
-
-<table>
-    <tr>
-        <td align="center" valign="middle">
-            <a href="https://buidlguidl.com/" target="_blank">
-                <img src="./materials/images/buidlguidl.png" alt="buidlguidl" width="130" />
+            <a href="https://onekey.so" target="_blank">
+                <img src="./materials/images/onekey.png" alt="onekey" width="130" />
             </a>
         </td>
         <td align="center" valign="middle">
-            <a href="https://x.com/Ch40sChain" target="_blank">
-                <img src="./materials/images/chaoschain.png" alt="buidlguidl" width="130" />
+            <a href="https://www.panewslab.com" target="_blank">
+                <img src="./materials/images/panews.png" alt="panews" width="130" />
+            </a>
+        </td>
+        <td align="center" valign="middle">
+            <a href="https://herstory.framer.ai" target="_blank">
+                <img src="./materials/images/herstory.png" alt="herstory" width="130" />
+            </a>
+        </td>
+        <td align="center" valign="middle">
+            <a href="https://openbuild.xyz" target="_blank">
+                <img src="./materials/images/OpenBuild.png" alt="OpenBuild" width="130" />
             </a>
         </td>
     </tr>

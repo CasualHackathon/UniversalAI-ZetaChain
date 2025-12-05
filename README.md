@@ -126,7 +126,7 @@ Qwen AI 可进一步支持：
   - [Bilibili](https://www.bilibili.com/video/BV1zWSgBnEcE/?share_source=copy_web&vd_source=fd6ac63c6fb1f02dcdf46371c30b2168)
 
 - **Qwen Agent 与 ZetaChain 全链交互实战导论**
-  - [Bilibili TODO]()
+  - [Bilibili](https://www.bilibili.com/video/BV1km27BTE5V/)
 
 ### 📖 学习材料
 

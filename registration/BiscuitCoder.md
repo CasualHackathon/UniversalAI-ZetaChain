@@ -15,7 +15,10 @@
 >0x12345...
 
 **需要组队** (选择一项：是 | 否 | 可能)
->是
+>否
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/17230944?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/17230944?v=4

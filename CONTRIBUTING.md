@@ -1,6 +1,8 @@
+<!--
 ## 🙋 如何报名参赛并提交项目？
 
 [](https://github.com/user-attachments/assets/6dc380f4-da7b-4984-a835-612820af4d8a)
+-->
 
 ## 👥 报名参赛
 

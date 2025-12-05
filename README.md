@@ -1,8 +1,8 @@
 # 通用 AI 共学黑客松
 
-[报名列表 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E6%8A%A5%E5%90%8D%E5%8F%82%E8%B5%9B)
+[报名参赛 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E6%8A%A5%E5%90%8D%E5%8F%82%E8%B5%9B)
 
-[参赛项目列表 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4)
+[参赛项目提交 👉 ](https://github.com/CasualHackathon/UniversalAI-ZetaChain?tab=contributing-ov-file#-%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4)
 
 一场专注于 **跨链 × AI × Defi** 创新的轻量线上黑客松，构建 **ZetaChain × Qwen** 上的下一代通用应用
 

@@ -16,10 +16,10 @@
 
 | 活动                | 时间                              | 形式                       | 回顾                           |
 | ------------------- | --------------------------------- | -------------------------- | ------------------------------ |
-| **开放日**          | 12 月 15 日 20:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接 TODO]() |                                |
-| **工作坊**          | 12 月 18 日 20:00 - 21:00 (UTC+8)   | 线上                       | [往期工作坊视频](#-工作坊视频) |
-| **Co-Builder Hour** | 每天 20:00 - 21:00 (UTC+8)        | 线上 [腾讯会议链接 TODO]() |                                |
-| **演示日**          | 12 月 21 日 19:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接 TODO]() |                                |
+| **开放日**          | 12 月 15 日 20:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接](https://meeting.tencent.com/dm/CexRN3DElp5s) |                                |
+| **工作坊**          | 12 月 18 日 20:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接 TODO]()                    | [往期工作坊视频](#-工作坊视频) |
+| **Co-Builder Hour** | 每天 20:00 - 21:00 (UTC+8)        | 线上 [腾讯会议链接](https://meeting.tencent.com/dm/LBCF4W2RbssG) |                                |
+| **演示日**          | 12 月 21 日 19:00 - 21:00 (UTC+8) | 线上 [腾讯会议链接](https://meeting.tencent.com/dm/LRw5wxE9RXyC) |                                |
 
 - **Casual Hackathon 活动时间**：12 月 15 日 – 12 月 21 日。动手实践和创意探索
 - **演示日**：12 月 21 日。在 GitHub 上提交，现场展示，丰厚奖品
@@ -53,9 +53,10 @@
 - 有机会进入 ZetaChain 长期生态孵化
 - 官方推广、合作伙伴曝光、多链开发资源支持
 
-### 🚀 项目示例
+### 🚀 ZetaChain 全球最新项目示例
 
-- TODO：ZetaChain Examples
+- [ZetaChain X Google Cloud AI Buildathon](https://dorahacks.io/hackathon/google-buildathon/detail)
+- [AWS Global Vibe: AI Coding Hackathon 2025](https://dorahacks.io/hackathon/awsvibecoding/detail)
 
 欢迎提出更多想法和示例！
 

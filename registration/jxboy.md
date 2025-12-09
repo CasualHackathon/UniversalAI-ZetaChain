@@ -3,16 +3,16 @@
 > 📝 **请在 ">" 后填写内容**
 
 **姓名** (请输入您的全名 | 必填)
->砚山客
+>jxboy Lee
 
 **简介** (简要的个人介绍，包括技能和经验 | 必填)
-> 全栈开发
+> 全栈开发，后端多一些，go、react、python、java
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
->微信: go4ahead     邮箱: licy2006@126.com   
+>email: licy2006@126.com
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
->
+> 以太坊：0xb684b4cf1ca6b17c2c8b96c68255ad74d29c53fa
 
 **需要组队** (选择一项：是 | 否 | 可能)
 >否

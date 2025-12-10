@@ -51,8 +51,8 @@
 - 提交参赛项目前，请先完成报名。
 
 <!-- Submission start -->
-
 | 项目 | 描述 | 负责人 | 仓库 | 操作 |
-| ---- | ---- | ------ | ---- | ---- |
+| ------- | ----------- | ------ | ---------- | ------- |
+| Trust3 | web3电子音乐平台 | EverestAn | [🔗](https://github.com/everest-an/trust3) | [编辑](https://github.com/CasualHackathon/UniversalAI-ZetaChain/issues/new?title=%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4%20-%20Trust3&body=%23%23%20%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4%0A%0A%3E%20%F0%9F%93%9D%20**%E8%AF%B7%E5%9C%A8%20%22%3E%22%20%E5%90%8E%E5%A1%AB%E5%86%99%E5%86%85%E5%AE%B9**%0A%0A**%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0**%20(%E8%AF%B7%E8%BE%93%E5%85%A5%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3ETrust3%0A%0A**%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0**%20(%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3Eweb3%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%8F%B0%0A%0A**%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80**%20(%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%20-%20%E9%A1%B9%E7%9B%AE%E5%BF%85%E9%A1%BB%E5%BC%80%E6%BA%90)%0A%3Ehttps%3A%2F%2Fgithub.com%2Feverest-an%2Ftrust3%0A**%E9%A1%B9%E7%9B%AE%E8%B4%9F%E8%B4%A3%E4%BA%BA**%20(%E9%A1%B9%E7%9B%AE%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%A7%93%E5%90%8D%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3EEverestAn%0A%0A**%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E9%92%B1%E5%8C%85**%20(%E5%88%97%E5%87%BA%E6%89%80%E6%9C%89%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%EF%BC%8C%E7%94%A8%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94%EF%BC%8C%E4%BE%8B%E5%A6%82%EF%BC%9AAlice%3A0x12345...%EF%BC%8CBob%3A0x12345...)%0A%3Eeverestan.eth) |
 
 <!-- Submission end -->

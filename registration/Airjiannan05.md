@@ -9,13 +9,16 @@
 >在校大学生，有LLM学习和研究经验，Zetachain开发入门人员
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
->jianlinchen550@gmail.com
+>jianlinchen550@gmail.com / 3142327636@qq.com
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
 >0x6a7deff8359d2045b5e3d8aa25c00dc18b0974bc
 
 **需要组队** (选择一项：是 | 否 | 可能)
 >是
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/174925028?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/174925028?v=4

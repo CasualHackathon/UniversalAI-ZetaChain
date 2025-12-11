@@ -15,7 +15,10 @@
 > 0xB7113b03a7d4A1883b851Fa27A6Df0DE0eAffD7E
 
 **需要组队** (选择一项：是 | 否 | 可能)
-> 可能
+> 否
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/30968856?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/30968856?v=4

@@ -6,7 +6,7 @@
 > June
 
 **简介** (简要的个人介绍，包括技能和经验 | 必填)
-> EVM developer and ZKP researcher
+> 馬爺底下的跟班小弟
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
 > df41022@gmail.com

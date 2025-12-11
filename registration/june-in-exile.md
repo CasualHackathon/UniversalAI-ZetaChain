@@ -6,16 +6,16 @@
 > June
 
 **简介** (简要的个人介绍，包括技能和经验 | 必填)
-> EVM Developer and ZKP Researcher
+> EVM developer and ZKP researcher
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
-> tg: @june_in_exile
+> df41022@gmail.com
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
-> 
+>
 
 **需要组队** (选择一项：是 | 否 | 可能)
-> 是
+> 否
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/26154393?v=4

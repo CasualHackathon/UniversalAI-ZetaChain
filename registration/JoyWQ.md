@@ -9,13 +9,16 @@
 > Web2数据平台的后端研发
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
-> @JoyWQQ
+> tg: @JoyWQQ
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
 > 0xd3066C388978d0C96372b6e85594D84cC4c37030
 
 **需要组队** (选择一项：是 | 否 | 可能)
 > 否
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/75573802?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/75573802?v=4

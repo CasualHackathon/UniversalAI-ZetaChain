@@ -9,13 +9,16 @@
 >新手，简单solidity经验，对AI × Universal Contract 感兴趣
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
->fancy66771716
+>微信：fancy66771716
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
 >0x481343E8e818dEfC0bfB805df905c0cb832101ee
 
 **需要组队** (选择一项：是 | 否 | 可能)
 >是
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/44015052?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/44015052?v=4

@@ -6,7 +6,7 @@
 >lynn
 
 **简介** (简要的个人介绍，包括技能和经验 | 必填)
->web2 c++开发，solidity初学，探索web3中
+>有c++开发经验，solidity初学，探索web3中
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
 >lynnyaostub@gmail.com
@@ -16,6 +16,9 @@
 
 **需要组队** (选择一项：是 | 否 | 可能)
 >否
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/13265770?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/13265770?v=4

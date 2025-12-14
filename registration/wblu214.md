@@ -9,14 +9,16 @@
 >一年经验的全栈开发者，js，go，java,solidity,nextjs,react,python 
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
->微信：Lu-limitations
-邮箱：wblu214@outlook.com
+>微信：Lu-limitations，邮箱：wblu214@outlook.com
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
 >0x1711a7ea43Fd14FC16a359A35ed1ee03FFC279C8
 
 **需要组队** (选择一项：是 | 否 | 可能)
 >否
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/184759814?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/184759814?v=4

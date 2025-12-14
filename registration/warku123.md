@@ -9,13 +9,16 @@
 > web3全栈开发新人，应届+1年毕业生，
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
-> Telegram: @warku123，微信：pinge1060063361，邮箱: zpg0628@163.com
+> Telegram: @warku1234，微信：pinge1060063361，邮箱: zpg0628@163.com
 
 **钱包地址** (您在以太坊主网的钱包地址或 ENS 域名)
 > 0xd4ced4d2d19b139b6227629c6fc92c721b42e0b7
 
 **需要组队** (选择一项：是 | 否 | 可能)
 > 可能
+
+**头像链接**
+> https://avatars.githubusercontent.com/u/50477615?v=4
 
 **头像链接**
 > https://avatars.githubusercontent.com/u/50477615?v=4

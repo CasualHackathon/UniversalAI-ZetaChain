@@ -6,7 +6,7 @@
 >james_1022
 
 **简介** (简要的个人介绍，包括技能和经验 | 必填)
->後端 C/C++ Rust Solidity
+>Rust C/C++ Solidity
 
 **联系方式** (格式：联系方式：联系账号，例如：Telegram: @username，微信: username，邮箱: email@example.com | 必填)
 >TG:Lain_1022

@@ -7,6 +7,7 @@
 
 **项目描述** (用一句话简要描述您的项目 | 必填)
 > AI-Powered Active Defense for Your Multi-Chain Portfolio
+   为多链投资提供人工智能驱动的主动防御
 
 **仓库地址** (开源仓库地址 - 项目必须开源)
 > https://github.com/warku123/OmniAegis

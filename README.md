@@ -120,6 +120,9 @@ Qwen AI 可进一步支持：
 - [文章](https://zetachain.com/docs/developers/tutorials/intro/)
 - [更多](https://www.zetachain.com/zh-CN)
 
+### Open Day 
+  - [Bilibili](https://www.bilibili.com/video/BV1QdqQB4EuT/)
+    
 ### 🎥 工作坊视频
 
 - **ZetaChain 通用资产与跨链 DeFi 开发导论**
@@ -128,6 +131,9 @@ Qwen AI 可进一步支持：
 
 - **Qwen Agent 与 ZetaChain 全链交互实战导论**
   - [Bilibili](https://www.bilibili.com/video/BV1km27BTE5V/)
+
+- **跨链 Dex 新方向**
+  - [Bilibili](https://www.bilibili.com/video/BV15UqQBwEUp/)
 
 ### 📖 学习材料
 

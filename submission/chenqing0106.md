@@ -9,10 +9,10 @@
 >将无形的“声音”与抽象的“情绪”转化为可视化的数字植物。
 
 **仓库地址** (开源仓库地址 - 项目必须开源)
->https://github.com/chenqing0106/Chain-Garden
+>https://github.com/chenqing0106/Chain-Garden/tree/zetachain
 
 **项目负责人** (项目负责人姓名 | 必填)
 >清晨
 
 **团队成员钱包** (列出所有团队成员的钱包地址，用逗号分隔，例如：Alice:0x12345...，Bob:0x12345...)
->清晨：0x05c9192ab2c03d941e1c8c21e44c40e5c17e4810，lynn：0x5949a7fde3bb29729ff619ff8e3f99bc53276365，阿树：0x86EA3eFf4402864f779c51D4ea0E09ab115479Ae，xlou：0x280bcf69d8163df6eafb57cd56b099f8ca904973
+>清晨：0x05c9192ab2c03d941e1c8c21e44c40e5c17e4810，lynn：0x5949a7fde3bb29729ff619ff8e3f99bc53276365，xlou：0x280bcf69d8163df6eafb57cd56b099f8ca904973

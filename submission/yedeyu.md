@@ -9,7 +9,7 @@
 >将资产跨链分发到不同地址。
 
 **仓库地址** (开源仓库地址 - 项目必须开源)
->https://github.com/yedeyu/ZetaChain-Batch-Transfer/
+>
 
 **项目负责人** (项目负责人姓名 | 必填)
 >David Ye

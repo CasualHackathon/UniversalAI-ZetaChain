@@ -6,8 +6,7 @@
 > OmniAegis
 
 **项目描述** (用一句话简要描述您的项目 | 必填)
-> AI-Powered Active Defense for Your Multi-Chain Portfolio
-   为多链投资提供人工智能驱动的主动防御
+> 利用 ZetaChain 的全链执行能力，OmniAegis 将 AI 风险分析与自动跨链防御相结合，打造加密资产在复杂多链环境下的‘智能避灾盾牌’。
 
 **仓库地址** (开源仓库地址 - 项目必须开源)
 > https://github.com/warku123/OmniAegis

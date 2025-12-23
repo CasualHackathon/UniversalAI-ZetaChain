@@ -15,4 +15,4 @@
 >Reece
 
 **团队成员钱包** (列出所有团队成员的钱包地址，用逗号分隔，例如：Alice:0x12345...，Bob:0x12345...)
->ZetaChain Testnet :  0x53C1844Af058fE3B3195e49fEC8f97E0a4F87772
+>Reece:0xc14354fd30215d4177dae9c386f6e9338240d453

@@ -122,6 +122,8 @@ Qwen AI 可进一步支持：
 
 ### Open Day 
   - [Bilibili](https://www.bilibili.com/video/BV1QdqQB4EuT/)
+### Demo Day 
+  - [Youtube](https://youtu.be/wKB73hkO32M)
     
 ### 🎥 工作坊视频
 

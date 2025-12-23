@@ -16,3 +16,4 @@
 
 **团队成员钱包** (列出所有团队成员的钱包地址，用逗号分隔，例如：Alice:0x12345...，Bob:0x12345...)
 > Chen Haorui:0xE3D755e9bf45b35E3F49d4535B72778Da3400CCe, Zeng Yuzhi:0xBd9Dc483e19d3d8375e040726b91e0911071396a
+Sanzhi:0x74147AeF4Cfa989Fed3372a7008d29b001694307

@@ -15,4 +15,4 @@
 >zylg-create
 
 **团队成员钱包** (列出所有团队成员的钱包地址，用逗号分隔，例如：Alice:0x12345...，Bob:0x12345...)
->0x980830C0f8002ce5bB5941dD709EA35A345ACE0F
+>zylg-create:0x980830C0f8002ce5bB5941dD709EA35A345ACE0F， 谢谢不需要：0x93b7935b8031c8b850eead4cdd13087b42717c40， 张乐冉：0x8be8b168d3c6d48f113fb910828f70c337396e31
